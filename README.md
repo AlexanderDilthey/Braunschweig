@@ -1,5 +1,3 @@
-# Braunschweig Repository
-
 Slides: [Paarweises Sequence Alignment](https://github.com/AlexanderDilthey/Braunschweig/blob/master/Paarweises%20Sequence%20Alignment%20GitHub.pptx?raw=true)
 
 Live version:
